@@ -1,0 +1,18 @@
+*{
+      padding: 0;
+      margin: 0;
+      box-sizing: border-box;
+}
+h1{
+      
+      align-items:flex-end;
+      justify-content: center;
+      justify-content: space-around;
+      background-color: yellow;
+      color: chocolate;
+      width: 900px;
+      height: 100px;
+      text-align: center;
+      
+      
+}
